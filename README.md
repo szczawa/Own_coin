@@ -1,2 +1,2 @@
 # Own_coin
-Krypto project
+Design your own cryptocurrency. It includes a simple peer-to-peer network, transaction mechanism and blockchain.
