@@ -9,7 +9,8 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
+- [Features](#features).
+- [Planned Improvements](#planned-improvements).
 
 ## About the Project
 
@@ -49,6 +50,13 @@ Once installed, you can start using Own_coin by running the following commend. B
 - **Transaction Management**: Transfer coins between wallets.
 - **Mining**: Simulate mining by adding blocks to the blockchain.
 - **Balance Checking**: Track and display wallet balances.
+
+### Planned Improvements
+
+The following features and enhancements are planned for future updates:
+
+- **GUI or Improved CLI**: Develop a graphical user interface (GUI) or improve the command-line interface (CLI) using `argparse` for better usability.
+- **Integration of FastAPI**: Implement FastAPI to enable RESTful API interactions with the blockchain, allowing for remote access and easier integration with other services.
 
 
 
